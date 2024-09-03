@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: example
+Version: 0.2
+Summary: example calculator package
+Home-page: url
+Author: Claudia
+Author-email: email
+License: MIT
+Requires-Dist: numpy
+
+## This package contains functions for a simple calculator
+
+here's me editing a file lalallalala
